@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-impulse.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Baterías con Impulse | Lynx Pardelle",
+    "description": "Trabaja con Impulse, el instrumento de percusión de Ableton Live. Carga golpes, modifica las muestras y usa su carácter para construir una batería propia.",
+    "canonical": "https://masterclass-impulse.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-midi.webp"
+    }
+  }
+}
